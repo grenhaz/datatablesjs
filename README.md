@@ -3,8 +3,8 @@ Java implementation to use DataTables JS
 
 # Example
 
-# Controller
-```
+## Controller
+```java
 @Controller
 public class GestorController
 {
@@ -51,9 +51,9 @@ public class GestorController
 }
 ```
 
-# JSP
+## JSP
 
-```
+```jsp
 <table id="records" class="table table-striped table-bordered" cellspacing="0">
     <thead>
         <tr>
